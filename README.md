@@ -5,14 +5,16 @@ Just a Simple .netstandart2.0 Logging Library
 # How to use
 
 To use this Logger Lib include the DLL in ur Project and Initialize it.
+- Initialize with Assembly Application name
+```cs
+NuruLog Nurulog = new NuruLog(Assembly.GetExecutingAssembly().GetName().Name);
+```
+
 - Initialize with Custom Application name
 ```cs
 NuruLog Nurulog = new NuruLog("Application Name");
 ```
-- If You Want you can Initialize it with the Assembly name of your Application
-```cs
-NuruLog Nurulog = new NuruLog(Assembly.GetExecutingAssembly().GetName().Name);
-```
+
 - To use the Logger simply us this Code for only Log to Consol.
 ```cs
 Nurulog.Log(LogHandler.LogType, Message);
