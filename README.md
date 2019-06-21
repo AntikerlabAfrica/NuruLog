@@ -7,7 +7,8 @@ Just a Simple .netstandart2.0 Logging Library
 
 # Compatability
 
-This Library schould be compatible with any OS that supports .NetCore2.0 (Windows 10, macOS Sierra - Mojave(Lastest) and Linux, FreeBSD(possible but untested))
+This Library schould be compatible with any OS that supports .NetCore2.0
+(Windows 10, macOS Sierra - Mojave(Lastest) and Linux, FreeBSD(possible but untested))
 
 # License
 
