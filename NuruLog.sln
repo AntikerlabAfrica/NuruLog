@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NuruLog", "NuruLog\NuruLog.csproj", "{227FA19C-BEB9-42BF-A81A-76AD2F866142}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NuruLog.Test", "NuruLog.Test\NuruLog.Test.csproj", "{8197F912-DA1E-4E66-93D7-446DED9832D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{227FA19C-BEB9-42BF-A81A-76AD2F866142}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{227FA19C-BEB9-42BF-A81A-76AD2F866142}.Debug|x86.Build.0 = Debug|Any CPU
+		{227FA19C-BEB9-42BF-A81A-76AD2F866142}.Release|x86.ActiveCfg = Release|Any CPU
+		{227FA19C-BEB9-42BF-A81A-76AD2F866142}.Release|x86.Build.0 = Release|Any CPU
+		{8197F912-DA1E-4E66-93D7-446DED9832D9}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{8197F912-DA1E-4E66-93D7-446DED9832D9}.Debug|x86.Build.0 = Debug|Any CPU
+		{8197F912-DA1E-4E66-93D7-446DED9832D9}.Release|x86.ActiveCfg = Release|Any CPU
+		{8197F912-DA1E-4E66-93D7-446DED9832D9}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
