@@ -26,7 +26,7 @@ Nurulog.Log("filename", LogHandler.LogType, Message);
 ```cs
 LogHandler.LogType.MESSAGE - Normal Messages from app/Server/Client apps
 
-LogHandler.LogType.SUCCESS - Like when logged in
+LogHandler.LogType.SUCCESS - Use when doing opperations like: Login/Logout/Copy
 
 LogHandler.LogType.INFO - Application infos
 
