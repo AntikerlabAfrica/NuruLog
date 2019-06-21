@@ -1,2 +1,5 @@
 # NuruLog
-Simple C# .netstandart 2.0 Logger
+Just a Simple .netstandart2.0 Logging Library
+
+#Changelog
+-init commit
