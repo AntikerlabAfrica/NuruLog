@@ -23,19 +23,19 @@ Nurulog.Log("filename", LogHandler.LogType, Message);
 
 - There are different Logtypes
 ```cs
-LogHandler.LogType.MESSAGE
+LogHandler.LogType.MESSAGE - Normal Messages from app/Server/Client apps
 
-LogHandler.LogType.SUCCESS
+LogHandler.LogType.SUCCESS - Like when logged in
 
-LogHandler.LogType.INFO
+LogHandler.LogType.INFO - Application infos
 
-LogHandler.LogType.DEBUG
+LogHandler.LogType.DEBUG - Application Debug Messages
 
-LogHandler.LogType.WARNING
+LogHandler.LogType.WARNING  - Application Warnings
 
-LogHandler.LogType.ERROR
+LogHandler.LogType.ERROR  - Application Error
 
-LogHandler.LogType.FATAL
+LogHandler.LogType.FATAL - Fatal Error in Application
 ```
 
 # Compatability
