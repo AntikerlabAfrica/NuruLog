@@ -12,7 +12,7 @@ namespace NuruLog.Test
             var inputM = Console.ReadLine();
             Nurulog.Log(LogHandler.LogType.MESSAGE, inputM);
 
-            Console.WriteLine("Test Log Message. No Filesave.");
+            Console.WriteLine("Test Log Success. No Filesave.");
             var inputS = Console.ReadLine();
             Nurulog.Log(LogHandler.LogType.SUCCESS, inputS);
 
@@ -43,7 +43,7 @@ namespace NuruLog.Test
             var inputMF = Console.ReadLine();
             Nurulog.Log(file, LogHandler.LogType.MESSAGE, inputMF);
 
-            Console.WriteLine("Test Log Message. Filesave.");
+            Console.WriteLine("Test Log Success. Filesave.");
             var inputSF = Console.ReadLine();
             Nurulog.Log(file, LogHandler.LogType.SUCCESS, inputSF);
 
