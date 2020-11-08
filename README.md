@@ -1,6 +1,5 @@
 # NuruLog
 Just a Simple .netstandart2.0 Logging Library
-- Nuru is a Swahili Name meaning Light / Born at night :) - since that lib was written at night :D
 
 # How to use
 
