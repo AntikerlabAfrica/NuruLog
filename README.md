@@ -43,7 +43,7 @@ LogHandler.LogType.FATAL - Fatal Error in Application
 # Compatability
 
 This Library schould be compatible with any OS that supports .Net Core 3.0
-(Windows, macOS Sierra - Catalina(Lastest) and Linux, FreeBSD(possible but untested))
+(Windows, macOS Sierra - Monterey(Lastest) and Linux, FreeBSD(possible but untested))
 
 # License
 
